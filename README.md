@@ -9,4 +9,4 @@ There was a time that instagram's gift message feature was disabled. So I made t
 - Netlify
 
 # Preview
-[Try it! ](https://ig-msg.netlify.app/?msg=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ==)
+[Try it! ](https://ig-msg.netlify.app/gift/?msg=aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ==)
